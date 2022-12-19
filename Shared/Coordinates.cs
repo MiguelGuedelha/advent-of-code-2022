@@ -1,4 +1,4 @@
 ﻿namespace Shared
 {
-    public record Coordinates(int Row, int Column);
+    public record Coordinates(long Row, long Column);
 }
